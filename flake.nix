@@ -6,5 +6,5 @@
       path = ./tempaltes;
       description = "Default template";
     };
-  }
+  };
 }
